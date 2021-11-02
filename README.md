@@ -1,10 +1,6 @@
-<!-- - 👋 Hi, I’m @joanafbrito
-- 👀 I’m interested in getting out with my dog, getting to know new people and to learn daily becaming the best of me :)
-- 🌱 I’m currently learning Front End Development at Turing
-- 💞️ I’m looking to collaborate with this community and make a difference.
-- 📫 How to reach me email: joanafiorentini@hotmail.com -->
+
 <section align="center">
-<!--   <h1>Who am I</h1>  -->
+<!--  Who am I gif  -->
 <img align="center" width=350 src="https://user-images.githubusercontent.com/82066350/139956445-00591f03-9ad9-48f0-94be-21721bb043e1.gif" />
 </section>
 <!-- Profile view numbers  -->
@@ -47,16 +43,15 @@
   <img src="https://img.shields.io/badge/UI/UX-33b818.svg?&style=flaste&logo=REST&logoColor=white"/>
 </p>
 
-<!-- Scss, TDD- Mocha and Chai,and Node. -->
+<!-- Need to add up: Scss, TDD- Mocha and Chai,and Node. -->
+<!-- About me -->
 <p align="center" width=800>
 <p>I'm curious by nature and my attention to detail can really make a difference in your everyday life.</br>
 Some of my most fond experiences have been be able to work with great people and bring mock-ups to life! While building strong relationships. I'm excited to take my love for languages from Portuguese, Spanish, English to utilizing Javascript/ React, HTML, CSS or any new language that allows me to explore this amazing territory called internet.</p> 
 
 <p align="center">Curiosity:</p> 
-<p>
-I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he seems very happy taking some touristic pictures around LA, while posting on his instagram account @britolucky 
-<a href="https://www.instagram.com/britolucky/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" />
-</a>
+<p>I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he seems very happy taking some touristic pictures around LA, while posting on his instagram account @britolucky 
+<a href="https://www.instagram.com/britolucky/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -86,9 +81,10 @@ I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he see
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
 </a> -->
 
+![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- Links to personal information  -->
-<h3 align="right">Contact me:</h3>
-<p align="right">
+<h3 align="center">Contact me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/joana-f-brito/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin icon" height="30" width="40" /></a>
 <a href="mailto:joanafiorentini@hotmail.com" target="blank"><img align="center" src="https://icon-library.com/images/email-icon-png-black/email-icon-png-black-1.jpg" alt="email " height="33" width="33" /></a>
 <!-- to be added as needed -->
