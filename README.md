@@ -6,12 +6,14 @@
 ## This is a Work In Progress!!!
 
 <a href="https://github.com/joanafbrito/joanafbrito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanafbrito&show_icons=true&theme=shades-of-purple" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joanafbrito&show_icons=true&theme=shades-of-purple" />
 </a>
+
 
 ### Top Languages
 
-<a href="https://github.com/anuraghazra/convoychat">
+
+<a href="https://github.com/joanafbrito/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafbrito&layout=compact&theme=shades-of-purple" />
 </a>
 
@@ -19,10 +21,12 @@
 <a href="https://github.com/joanafbrito/joanafbrito">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joanafbrito&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-<!---
-joanafbrito/joanafbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
+</a>
+
+
 <!-- ![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanafbrito) -->
 <!-- ![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanafbrito&hide=contribs,prs) -->
 <!-- ![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanafbrito&count_private=true) -->
@@ -40,8 +44,16 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" /></a>
 <a href="joanafiorentini@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Youtube icon" height="30" width="40" /></a> -->
 </p>
+
+<a href="https://github.com/joanafbrito/joanafbrito">
+  <img align="center" src="https://komarev.com/ghpvc/?username=joanafbrito&color=462581" />
+</a>
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=joanafbrito&color=#a442eb) -->
+
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joanafbrito) -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joanafbrito)](https://git.io/streak-stats) -->
 <!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joanafbrito&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D) -->
 
-<!-- (https://git.io/streak-stats) -->
+<!---
+joanafbrito/joanafbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
