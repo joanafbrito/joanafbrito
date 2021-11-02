@@ -10,20 +10,21 @@
 </a>
 
 
-### Top Languages
+<!-- ### Top Languages -->
 
 
 <a href="https://github.com/joanafbrito/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafbrito&layout=compact&theme=shades-of-purple" />
+  <img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafbrito&layout=compact&theme=shades-of-purple" />
 </a>
 
-### Contribuitions 
+
+<!-- ### Contribuitions  -->
 <a href="https://github.com/joanafbrito/joanafbrito">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joanafbrito&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
+  <img align="right" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
 </a>
 
 
