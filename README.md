@@ -4,12 +4,16 @@
 - 💞️ I’m looking to collaborate with this community and make a difference.
 - 📫 How to reach me email: joanafiorentini@hotmail.com -->
 <section align="center">
-  <h1>Who am I</h1> 
-
-I'm a Frontend software developer,
-
-I have been woking with
+<!--   <h1>Who am I</h1>  -->
+<img align="center" width=350 src="https://user-images.githubusercontent.com/82066350/139956445-00591f03-9ad9-48f0-94be-21721bb043e1.gif" />
 </section>
+<!-- Profile view numbers  -->
+</br>
+<section align="center"> 
+<img align="center" width=100 src="https://komarev.com/ghpvc/?username=joanafbrito&color=462581" alt="Profile views numbers" />
+</section>
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <p align="center"> 
@@ -44,41 +48,47 @@ I have been woking with
 </p>
 
 <!-- Scss, TDD- Mocha and Chai,and Node. -->
+<p align="center" width=800>
+<p>I'm curious by nature and my attention to detail can really make a difference in your everyday life.</br>
+Some of my most fond experiences have been be able to work with great people and bring mock-ups to life! While building strong relationships. I'm excited to take my love for languages from Portuguese, Spanish, English to utilizing Javascript/ React, HTML, CSS or any new language that allows me to explore this amazing territory called internet.</p> 
 
-I'm curious by nature and my attention to detail can really make a difference in your everyday life.
-Some of my most fond experiences have been working with great people and bring mock-ups to life! While building relationships that have become friendships for life. I'm excited to take my love for languages from Portuguese, Spanish, English to utilizing Javascript/ React, HTML, CSS or any new language to explore this amazing territory called internet. 
+<p align="center">Curiosity:</p> 
+<p>
+I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he seems very happy taking some touristic pictures around LA, while posting on his instagram account @britolucky 
+<a href="https://www.instagram.com/britolucky/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" />
+</a>
+</p>
+</p>
 
-Curiosity: I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he seems very happy taking some touristic pictures around LA, while posting on his instagram account @britolucky
+![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## This is a Work In Progress!!!
-
+<section align="center">
 <a href="https://github.com/joanafbrito/joanafbrito">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joanafbrito&show_icons=true&theme=shades-of-purple" />
 </a>
 
-### Top Languages
-
+<h2 align="center" color=ffeb3b>Top Languages</h2>
 
 <a href="https://github.com/joanafbrito/convoychat">
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafbrito&layout=compact&theme=shades-of-purple" />
+  <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanafbrito&layout=compact&theme=shades-of-purple" />
 </a>
+</section>
 
 
-### Contribuitions 
 
-
+<section align="center">
+<h2>Contribuitions </h2>
 <a href="https://github.com/joanafbrito/joanafbrito">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joanafbrito&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-
+</section>
 <!-- <a href="">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
 </a> -->
 
 <!-- Links to personal information  -->
-<h3 align="left">Contact me:</h3>
-<p align="left">
+<h3 align="right">Contact me:</h3>
+<p align="right">
 <a href="https://www.linkedin.com/in/joana-f-brito/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin icon" height="30" width="40" /></a>
 <a href="mailto:joanafiorentini@hotmail.com" target="blank"><img align="center" src="https://icon-library.com/images/email-icon-png-black/email-icon-png-black-1.jpg" alt="email " height="33" width="33" /></a>
 <!-- to be added as needed -->
@@ -88,11 +98,6 @@ Curiosity: I brought My dog from Brazil, not sure if he liked the trip! 🤔 But
 </p>
 
 
-<!-- Profile view numbers  -->
-<a href="https://github.com/joanafbrito/joanafbrito">
-  <img align="center" src="https://komarev.com/ghpvc/?username=joanafbrito&color=462581" alt="Profile views numbers" />
-</a>
-
 
 
 
@@ -100,3 +105,4 @@ Curiosity: I brought My dog from Brazil, not sure if he liked the trip! 🤔 But
 
 <!-- joanafbrito/joanafbrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- You can click the Preview link to take a look at your changes. -->
+
