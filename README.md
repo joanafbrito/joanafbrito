@@ -70,13 +70,13 @@ Some of my most fond experiences have been be able to work with great people and
 </section>
 
 
-
+<!-- 
 <section align="center">
 <h2>Contribuitions </h2>
 <a href="https://github.com/joanafbrito/joanafbrito">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=joanafbrito&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-</section>
+</section> -->
 <!-- <a href="">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=joanafbrito&repo=joanafbrito&theme=shades-of-purple" />
 </a> -->
