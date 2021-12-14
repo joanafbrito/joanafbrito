@@ -43,17 +43,27 @@
   <img src="https://img.shields.io/badge/UI/UX-33b818.svg?&style=flaste&logo=REST&logoColor=white"/>
 </p>
 
-<!-- Need to add up: Scss, TDD- Mocha and Chai,and Node. -->
-<!-- About me -->
-<p align="center" width=800>
-<p>I'm curious by nature and my attention to detail can really make a difference in your everyday life.</br>
-Some of my most fond experiences have been be able to work with great people and bring mock-ups to life! While building strong relationships. I'm excited to take my love for languages from Portuguese, Spanish, English to utilizing Javascript/ React, HTML, CSS or any new language that allows me to explore this amazing territory called internet.</p> 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p align="center">Curiosity:</p> 
+<!-- Need to add up: Scss, TDD- Mocha and Chai,and Node. -->
+<section> 
+  
+<h2 align="center" color=ffeb3b>About</h2>
+
+  
+<p align="center" width=800>
+<p>I'm a business owner and HR specialist turned software developer who loves to get to know people and their stories to help them find creative solutions to their most pressing issues. Not only I'm curious by nature but with my skills of adaptability, initiative and problem solving I can really make a difference on your software development team.</p>
+
+<p> I'm excited to bring my love for details, colors, UI/UX and languages from Portuguese, Spanish and English into the tech industry. By utilizing and searching for the most efficient tools, like GitHub projects, I’m able to establish strong team communication and collaboration to bring mock-ups to life!</p>
+
+<p>If you catch me outside of work, I'm an animal lover, a healthy cook with a flair for Brazilian/italian cuisine - singing and dancing my way through life.</p>
+
+<p align="center">Fun Fact::</p> 
 <p>I brought My dog from Brazil, not sure if he liked the trip! 🤔 But now he seems very happy taking some touristic pictures around LA, while posting on his instagram account @britolucky 
 <a href="https://www.instagram.com/britolucky/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" /></a>
 </p>
 </p>
+</section>
 
 ![------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
