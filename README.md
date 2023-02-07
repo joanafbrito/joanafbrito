@@ -96,7 +96,7 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/joana-f-brito/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin icon" height="30" width="40" /></a>
-<a href="mailto:joanafiorentini@hotmail.com" target="blank"><img align="center" src="https://icon-library.com/images/email-icon-png-black/email-icon-png-black-1.jpg" alt="email " height="33" width="33" /></a>
+<a href="mailto:joana@bossanovasolutions.com" target="blank"><img align="center" src="https://icon-library.com/images/email-icon-png-black/email-icon-png-black-1.jpg" alt="email " height="33" width="33" /></a>
 <!-- to be added as needed -->
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a> -->
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram icon" height="30" width="40" /></a>
